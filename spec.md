@@ -1,0 +1,1 @@
+// note: Specifikáció: Névjegykártya tároló. Ismerősök adatait névjegykártyaszerűen tárolja, jeleníti meg. Statikus minta alapján, megjelenítendő adatok: név, cégnév, tel, email, később fotó. Legyen keresés, minden adatban keressen, szűrt lista
